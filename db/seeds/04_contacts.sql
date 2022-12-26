@@ -2,13 +2,13 @@ INSERT INTO contacts
 (user_id, name, image, linkedin, github, twitter)
  VALUES
  ('5c2ea821-8462-4c2b-8bb7-eb1b30739837', 'Hope Warren',
- 'https://media-exp1.licdn.com/dms/image/D5635AQEZel_5G8Vb6w/profile-framedphoto-shrink_100_100/0/1660263415438?e=1670634000&v=beta&t=YPTjf_XJaNWh77d2b6ZVIGunDRjEQAs93UWzsqGjguk',
+ 'https://avatars.githubusercontent.com/u/94871427?v=4',
  'https://www.linkedin.com/in/hope-warren-84488423a/',
  'https://github.com/hopeVaughn',
  'https://twitter.com/hopeVaughn80'),
 
  ('5c2ea821-8462-4c2b-8bb7-eb1b30739837', 'Eduardo Cesconetto',
- 'https://media-exp1.licdn.com/dms/image/C5603AQEeD8y12M9gEA/profile-displayphoto-shrink_200_200/0/1658772472251?e=1671062400&v=beta&t=liwzekkO3CPQLIcsULENoUA_3lqBNRFg9lFrwVE_EPg',
+ 'https://avatars.githubusercontent.com/u/99515575?s=400&u=8dd2b7f31cb2c1683dfd2d71a1fc88af05212b51&v=4',
  'https://www.linkedin.com/in/eduardo-cesconetto/',
  'https://github.com/cesconettoedu',
  'https://twitter.com/'),
